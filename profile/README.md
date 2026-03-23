@@ -1,13 +1,14 @@
 # BlackRoad-Alphabet
 
-**Alphabet/Google integrations and tools**
+**Alphabet/Google integrations**
 
-Part of [BlackRoad OS](https://blackroad.io) — sovereign infrastructure.
+Part of [BlackRoad OS Enterprise](https://github.com/enterprises/blackroad-os) — sovereign infrastructure.
 
 | | |
 |---|---|
-| **Enterprise** | [BlackRoad OS, Inc.](https://github.com/enterprises/blackroad-os) |
+| **Enterprise** | [github.com/enterprises/blackroad-os](https://github.com/enterprises/blackroad-os) |
 | **Website** | [blackroad.io](https://blackroad.io) |
 | **Search** | [search.blackroad.io](https://search.blackroad.io) |
+| **Org Page** | [blackroad-alphabet.github.io](https://blackroad-alphabet.github.io) |
 
-> Pave Tomorrow.
+> 34 orgs · 2,315+ repos · Pave Tomorrow.
